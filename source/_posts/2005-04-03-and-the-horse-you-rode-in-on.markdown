@@ -3,7 +3,7 @@ layout: post
 title: "And the Horse You Rode In On\xE2\x80\xA6"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

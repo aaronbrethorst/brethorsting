@@ -3,7 +3,7 @@ layout: post
 title: Bush/Zombie Reagan 04
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

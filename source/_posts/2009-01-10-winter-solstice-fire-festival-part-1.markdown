@@ -4,7 +4,7 @@ title: Winter Solstice Fire Festival Part 1
 tags: 
 - Photography
 - Seattle
-status: publish
+comments: true
 type: post
 published: true
 meta: 

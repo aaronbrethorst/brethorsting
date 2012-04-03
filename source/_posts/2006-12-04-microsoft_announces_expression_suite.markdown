@@ -3,7 +3,7 @@ layout: post
 title: Microsoft announces Expression suite
 tags: 
 - WPF
-status: publish
+comments: true
 type: post
 published: true
 meta: 

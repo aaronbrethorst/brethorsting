@@ -3,7 +3,7 @@ layout: post
 title: Merlot-drinking liberals
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

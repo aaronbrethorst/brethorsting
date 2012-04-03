@@ -3,7 +3,7 @@ layout: post
 title: Fit to Print
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

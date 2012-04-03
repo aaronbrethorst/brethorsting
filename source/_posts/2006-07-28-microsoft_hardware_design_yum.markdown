@@ -3,7 +3,7 @@ layout: post
 title: Microsoft + Hardware Design = Yum
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

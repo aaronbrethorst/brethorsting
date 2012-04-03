@@ -3,7 +3,7 @@ layout: post
 title: The Shrillness of Conservative Whackjobs
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

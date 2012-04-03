@@ -4,7 +4,7 @@ title: What a difference a day makes...
 tags: 
 - Personal Life
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

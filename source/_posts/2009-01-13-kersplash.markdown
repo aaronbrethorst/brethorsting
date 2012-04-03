@@ -3,7 +3,7 @@ layout: post
 title: Kersplash!
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

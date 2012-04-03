@@ -3,7 +3,7 @@ layout: post
 title: "Meet Popfly \xE2\x80\x93 Mashups for the rest of us"
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

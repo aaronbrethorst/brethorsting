@@ -3,7 +3,7 @@ layout: post
 title: Visual Studio 2005 Beta 1 RTM!!!!
 tags: 
 - Developer Tools
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

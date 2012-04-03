@@ -3,7 +3,7 @@ layout: post
 title: Wetter than usual
 tags: 
 - Seattle
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

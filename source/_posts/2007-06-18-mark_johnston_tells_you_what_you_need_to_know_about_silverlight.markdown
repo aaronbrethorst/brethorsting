@@ -3,7 +3,7 @@ layout: post
 title: Mark Johnston tells you what you need to know about Silverlight
 tags: 
 - Silverlight
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

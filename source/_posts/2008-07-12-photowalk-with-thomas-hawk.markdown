@@ -3,7 +3,7 @@ layout: post
 title: Photowalk with Thomas Hawk
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Obama speaks to the 65th TV Correspondents Association Dinner
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

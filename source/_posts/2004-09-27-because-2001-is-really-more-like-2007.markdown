@@ -3,7 +3,7 @@ layout: post
 title: "Because \xE2\x80\x9C2001\xE2\x80\xB3 is really more like 2007"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

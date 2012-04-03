@@ -3,7 +3,7 @@ layout: post
 title: Emma starts a Web 2.0 Haters Club - can I join?
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

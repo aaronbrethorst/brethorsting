@@ -3,7 +3,7 @@ layout: post
 title: Subclassing NSCell - The Easy Way
 tags: 
 - Cocoa
-status: publish
+comments: true
 type: post
 published: true
 meta: 

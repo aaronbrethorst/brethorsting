@@ -3,7 +3,7 @@ layout: post
 title: "Jon Stewart Asks: Does O'Reilly think Limbaugh's talk is treasonous?"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

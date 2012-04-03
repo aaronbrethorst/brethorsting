@@ -3,7 +3,7 @@ layout: post
 title: Did you hear the news?
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

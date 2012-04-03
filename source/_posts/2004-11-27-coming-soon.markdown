@@ -3,7 +3,7 @@ layout: post
 title: Coming Soon
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

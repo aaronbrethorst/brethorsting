@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Khoi Vinh\xE2\x80\x99s 3 Question Interview with Zeldman"
+title: "Khoi Vinh' 3 Question Interview with Zeldman"
 tags: 
 - Customers and Community
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

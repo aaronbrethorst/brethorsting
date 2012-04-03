@@ -3,7 +3,7 @@ layout: post
 title: Walt Mossberg on Election '08
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: More Cozi Goodness
 tags: 
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Create color palettes from your photos
 tags: 
 - Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

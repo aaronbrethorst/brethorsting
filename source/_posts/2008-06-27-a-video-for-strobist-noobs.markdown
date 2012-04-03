@@ -3,7 +3,7 @@ layout: post
 title: A Video for Strobist Noobs
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

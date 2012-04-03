@@ -3,7 +3,7 @@ layout: post
 title: Project Runway - whew! !!SPOILER ALERT!!
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

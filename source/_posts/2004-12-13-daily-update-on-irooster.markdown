@@ -3,7 +3,7 @@ layout: post
 title: Daily Update on iRooster
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

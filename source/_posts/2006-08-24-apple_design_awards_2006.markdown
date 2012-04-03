@@ -3,7 +3,7 @@ layout: post
 title: Apple Design Awards 2006
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

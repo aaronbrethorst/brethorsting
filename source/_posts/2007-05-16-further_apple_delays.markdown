@@ -3,7 +3,7 @@ layout: post
 title: Further Apple Delays?
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -5,7 +5,7 @@ tags:
 - UI Design
 - Vista
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: 

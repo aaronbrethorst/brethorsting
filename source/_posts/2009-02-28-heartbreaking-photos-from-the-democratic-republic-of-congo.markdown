@@ -3,7 +3,7 @@ layout: post
 title: Heartbreaking Photos from the Democratic Republic of Congo
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

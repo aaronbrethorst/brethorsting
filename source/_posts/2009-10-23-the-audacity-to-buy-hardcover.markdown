@@ -4,7 +4,7 @@ title: The audacity to buy hardcover
 tags: 
 - Personal Life
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

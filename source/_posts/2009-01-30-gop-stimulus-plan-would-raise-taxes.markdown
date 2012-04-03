@@ -3,7 +3,7 @@ layout: post
 title: GOP Stimulus Plan Would Raise Taxes
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

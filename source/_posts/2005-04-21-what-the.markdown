@@ -3,7 +3,7 @@ layout: post
 title: "What the\xE2\x80\xA6"
 tags: 
 - Developer Tools
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

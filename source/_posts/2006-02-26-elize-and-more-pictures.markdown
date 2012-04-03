@@ -3,7 +3,7 @@ layout: post
 title: Elize and More Pictures
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

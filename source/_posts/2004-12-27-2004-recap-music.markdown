@@ -3,7 +3,7 @@ layout: post
 title: "2004 Recap: Music"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

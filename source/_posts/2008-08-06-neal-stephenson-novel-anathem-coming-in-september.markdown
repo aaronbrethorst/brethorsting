@@ -3,7 +3,7 @@ layout: post
 title: Neal Stephenson Novel, Anathem, Coming in September
 tags: 
 - Books
-status: publish
+comments: true
 type: post
 published: true
 meta: 

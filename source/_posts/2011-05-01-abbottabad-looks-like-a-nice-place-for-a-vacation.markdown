@@ -3,7 +3,7 @@ layout: post
 title: Abbottabad looks like a nice place for a vacation
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

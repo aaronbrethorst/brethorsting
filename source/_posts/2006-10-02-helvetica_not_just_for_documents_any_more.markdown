@@ -3,7 +3,7 @@ layout: post
 title: "Helvetica: not just for documents any more"
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

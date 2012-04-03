@@ -3,7 +3,7 @@ layout: post
 title: How to Buy a DSLR for $1000
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

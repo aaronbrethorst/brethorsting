@@ -5,7 +5,7 @@ tags:
 - iPhone
 - Mac OS X
 - Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

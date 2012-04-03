@@ -3,7 +3,7 @@ layout: post
 title: "You Don\xE2\x80\x99t Apologize For Being Right"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

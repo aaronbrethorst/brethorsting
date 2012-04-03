@@ -3,7 +3,7 @@ layout: post
 title: uninstalling kexts
 tags: 
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

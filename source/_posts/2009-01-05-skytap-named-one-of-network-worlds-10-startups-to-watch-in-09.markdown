@@ -3,7 +3,7 @@ layout: post
 title: Skytap named one of Network World's '10 Startups to Watch in 09'
 tags: 
 - Startups
-status: publish
+comments: true
 type: post
 published: true
 meta: 

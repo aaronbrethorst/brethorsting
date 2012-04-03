@@ -3,7 +3,7 @@ layout: post
 title: Capitol Hill photo ops over the weekend
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

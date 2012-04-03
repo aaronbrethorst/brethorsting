@@ -4,7 +4,7 @@ title: Iran's Disputed Election on The Big Picture
 tags: 
 - Photography
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

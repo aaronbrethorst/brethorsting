@@ -3,7 +3,7 @@ layout: post
 title: Where's the Beef? Fighter Plane Edition
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

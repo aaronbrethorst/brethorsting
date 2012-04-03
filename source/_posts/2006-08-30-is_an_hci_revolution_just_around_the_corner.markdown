@@ -3,7 +3,7 @@ layout: post
 title: Is an HCI revolution just around the corner?
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

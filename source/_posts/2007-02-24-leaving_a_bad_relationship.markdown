@@ -3,7 +3,7 @@ layout: post
 title: Leaving a bad relationship
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: The Right has literally let terrorists win
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

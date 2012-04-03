@@ -3,7 +3,7 @@ layout: post
 title: The best Cocoa UI components
 tags: 
 - Cocoa
-status: publish
+comments: true
 type: post
 published: true
 meta: 

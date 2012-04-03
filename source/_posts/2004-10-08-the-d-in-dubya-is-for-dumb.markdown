@@ -3,7 +3,7 @@ layout: post
 title: "The \xE2\x80\x98D\xE2\x80\x99 in Dubya is for DUMB"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

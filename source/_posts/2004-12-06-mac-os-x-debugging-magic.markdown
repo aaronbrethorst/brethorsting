@@ -3,7 +3,7 @@ layout: post
 title: Mac OS X Debugging Magic
 tags: 
 - Developer Tools
-status: publish
+comments: true
 type: post
 published: true
 meta: 

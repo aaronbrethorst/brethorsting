@@ -3,7 +3,7 @@ layout: post
 title: "Pocketwizard FlexTT5: Wowza!"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

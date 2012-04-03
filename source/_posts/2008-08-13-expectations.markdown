@@ -3,7 +3,7 @@ layout: post
 title: Expectations
 tags: 
 - Video Games
-status: publish
+comments: true
 type: post
 published: true
 meta: 

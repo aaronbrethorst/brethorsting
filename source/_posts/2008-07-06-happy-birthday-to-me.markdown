@@ -4,7 +4,7 @@ title: Happy birthday to me!
 tags: 
 - Personal Life
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

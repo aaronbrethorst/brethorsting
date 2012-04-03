@@ -3,7 +3,7 @@ layout: post
 title: MacWorld Expo Keynote Predictions
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

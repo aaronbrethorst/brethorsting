@@ -3,7 +3,7 @@ layout: post
 title: "EXCLUSIVE FIRST LOOK: Digg adds new categories!!!"
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

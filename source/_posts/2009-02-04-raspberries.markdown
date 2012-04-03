@@ -3,7 +3,7 @@ layout: post
 title: Raspberries
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

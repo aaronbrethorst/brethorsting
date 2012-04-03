@@ -3,7 +3,7 @@ layout: post
 title: Windows Mobile Ux Design
 tags: 
 - Windows Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

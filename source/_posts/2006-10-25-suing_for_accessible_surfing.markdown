@@ -3,7 +3,7 @@ layout: post
 title: Suing for Accessible Surfing
 tags: 
 - Accessibility
-status: publish
+comments: true
 type: post
 published: true
 meta: 

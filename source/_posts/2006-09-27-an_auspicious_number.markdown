@@ -3,7 +3,7 @@ layout: post
 title: An auspicious number
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Aero Glass in Winforms Applications
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: Putin rears head in sneak water attack
 tags: 
 - Random Funniness
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Just a few random updates
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

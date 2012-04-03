@@ -3,7 +3,7 @@ layout: post
 title: Six month exposure
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

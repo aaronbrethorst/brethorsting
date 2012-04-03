@@ -3,7 +3,7 @@ layout: post
 title: Discovery Park Photos - First to claim gets a print!
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

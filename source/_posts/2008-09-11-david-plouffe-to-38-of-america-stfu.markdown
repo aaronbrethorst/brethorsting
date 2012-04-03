@@ -3,7 +3,7 @@ layout: post
 title: "David Plouffe to 38% of America: STFU"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

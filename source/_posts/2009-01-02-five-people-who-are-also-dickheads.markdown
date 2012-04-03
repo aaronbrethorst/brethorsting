@@ -3,7 +3,7 @@ layout: post
 title: Five People Who Are Also Dickheads
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

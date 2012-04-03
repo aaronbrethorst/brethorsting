@@ -3,7 +3,7 @@ layout: post
 title: "Jacktracking: The Post-Modern Timewaster"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: An Infinite Number of Hasselhoffs
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

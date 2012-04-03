@@ -3,7 +3,7 @@ layout: post
 title: World+Dog - Redux
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

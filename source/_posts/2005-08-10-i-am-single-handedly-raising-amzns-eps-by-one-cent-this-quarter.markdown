@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "I am single-handedly raising AMZN\xE2\x80\x99s EPS by One Cent this Quarter"
+title: "I am single-handedly raising AMZN' EPS by One Cent this Quarter"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

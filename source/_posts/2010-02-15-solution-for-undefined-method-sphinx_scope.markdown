@@ -4,7 +4,7 @@ title: Solution for undefined method `sphinx_scope'
 tags: 
 - Rails
 - Thinking Sphinx
-status: publish
+comments: true
 type: post
 published: true
 meta: 

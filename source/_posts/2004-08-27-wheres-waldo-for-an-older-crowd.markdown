@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Where\xE2\x80\x99s Waldo for an older crowd"
+title: "Where' Waldo for an older crowd"
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

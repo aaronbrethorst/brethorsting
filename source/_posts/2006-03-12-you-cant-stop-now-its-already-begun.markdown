@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "you can\xE2\x80\x99t stop now, it\xE2\x80\x99s already begun"
+title: "you can\xE2\x80\x99t stop now, it' already begun"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

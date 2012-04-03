@@ -3,7 +3,7 @@ layout: post
 title: Shoprite featured on the Capitol Hill blog
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

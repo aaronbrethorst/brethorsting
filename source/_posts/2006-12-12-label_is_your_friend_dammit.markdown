@@ -3,7 +3,7 @@ layout: post
 title: Label *is* your friend, dammit!
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

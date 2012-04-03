@@ -4,7 +4,7 @@ title: Photographic Retrospective on the Bush Years
 tags: 
 - Photography
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

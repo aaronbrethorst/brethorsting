@@ -3,7 +3,7 @@ layout: post
 title: Facebook Connect for iPhone
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

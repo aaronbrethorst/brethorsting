@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "A Dirty Pun Tweaks China\xE2\x80\x99s Online Censors - NYTimes.com"
+title: "A Dirty Pun Tweaks China' Online Censors - NYTimes.com"
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

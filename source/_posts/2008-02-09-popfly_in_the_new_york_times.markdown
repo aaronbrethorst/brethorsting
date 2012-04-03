@@ -3,7 +3,7 @@ layout: post
 title: Popfly in the New York Times
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

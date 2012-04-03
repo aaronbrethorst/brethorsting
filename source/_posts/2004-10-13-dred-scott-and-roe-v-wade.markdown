@@ -3,7 +3,7 @@ layout: post
 title: Dred Scott and Roe v. Wade
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

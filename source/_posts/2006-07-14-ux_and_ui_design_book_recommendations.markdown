@@ -3,7 +3,7 @@ layout: post
 title: Ux and UI Design Book Recommendations
 tags: 
 - Books
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

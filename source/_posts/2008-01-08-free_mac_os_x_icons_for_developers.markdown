@@ -5,7 +5,7 @@ tags:
 - Apple
 - Cocoa
 - Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Wit and Wisdom of the Great Minnesota Governors
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

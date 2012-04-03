@@ -3,7 +3,7 @@ layout: post
 title: Oh yeah, iRooster
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

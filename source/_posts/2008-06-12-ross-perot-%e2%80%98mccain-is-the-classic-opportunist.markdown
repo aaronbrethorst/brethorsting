@@ -3,7 +3,7 @@ layout: post
 title: "Ross Perot: \xE2\x80\x98McCain is the classic opportunist.\xE2\x80\x99"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

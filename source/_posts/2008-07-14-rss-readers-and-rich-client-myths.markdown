@@ -3,7 +3,7 @@ layout: post
 title: RSS Readers and Rich Client Myths
 tags: 
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

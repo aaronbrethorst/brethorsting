@@ -3,7 +3,7 @@ layout: post
 title: 2008 Gay Pride Parade
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

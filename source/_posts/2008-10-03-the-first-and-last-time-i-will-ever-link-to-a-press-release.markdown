@@ -3,7 +3,7 @@ layout: post
 title: The first and last time I will ever link to a press release
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Greg Yardley on AppStore metrics
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

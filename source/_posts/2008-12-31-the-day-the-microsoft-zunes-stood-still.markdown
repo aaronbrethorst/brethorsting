@@ -3,7 +3,7 @@ layout: post
 title: The Day the Microsoft Zunes Stood Still
 tags: 
 - Microsoft
-status: publish
+comments: true
 type: post
 published: true
 meta: 

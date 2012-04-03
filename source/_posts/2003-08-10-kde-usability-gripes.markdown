@@ -3,7 +3,7 @@ layout: post
 title: KDE Usability Gripes
 tags: 
 - Usability and UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

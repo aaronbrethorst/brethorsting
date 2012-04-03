@@ -3,7 +3,7 @@ layout: post
 title: What is there to say?
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

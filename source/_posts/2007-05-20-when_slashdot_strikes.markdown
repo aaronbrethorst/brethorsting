@@ -3,7 +3,7 @@ layout: post
 title: When Slashdot strikes!
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

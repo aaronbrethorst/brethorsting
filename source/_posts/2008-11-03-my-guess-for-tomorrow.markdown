@@ -3,7 +3,7 @@ layout: post
 title: My Guess for Tomorrow
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

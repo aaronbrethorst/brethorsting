@@ -3,7 +3,7 @@ layout: post
 title: "Still creeping up at #6"
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

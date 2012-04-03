@@ -3,7 +3,7 @@ layout: post
 title: Things I Hate, Vol. 1
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

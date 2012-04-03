@@ -3,7 +3,7 @@ layout: post
 title: Why Must Users RTFM?
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

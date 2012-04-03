@@ -3,7 +3,7 @@ layout: post
 title: At Work on the Big Picture
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Inflection Points
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

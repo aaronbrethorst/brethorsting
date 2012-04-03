@@ -3,7 +3,7 @@ layout: post
 title: Infinite Streams
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

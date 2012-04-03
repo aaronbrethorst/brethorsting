@@ -3,7 +3,7 @@ layout: post
 title: Quick Notes on Sidwell Friends
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Round Pegs in Square Holes
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

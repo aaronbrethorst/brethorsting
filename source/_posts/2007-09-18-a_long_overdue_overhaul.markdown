@@ -4,7 +4,7 @@ title: A long overdue overhaul
 tags: 
 - Aaron
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

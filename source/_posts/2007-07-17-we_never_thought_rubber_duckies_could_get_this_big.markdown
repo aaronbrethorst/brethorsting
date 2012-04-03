@@ -3,7 +3,7 @@ layout: post
 title: We never thought rubber duckies could get *this* big
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

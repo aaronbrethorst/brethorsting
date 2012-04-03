@@ -3,7 +3,7 @@ layout: post
 title: Haley Joel Osment in Car Crash?
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

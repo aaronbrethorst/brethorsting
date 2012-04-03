@@ -3,7 +3,7 @@ layout: post
 title: "Almost ready to start talking again\xE2\x80\xA6"
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

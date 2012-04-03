@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Origami\xE2\x80\x99s actually cool now"
+title: "Origami' actually cool now"
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

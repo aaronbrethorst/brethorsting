@@ -3,7 +3,7 @@ layout: post
 title: Drunkenbatman on the Notion of Marriage
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

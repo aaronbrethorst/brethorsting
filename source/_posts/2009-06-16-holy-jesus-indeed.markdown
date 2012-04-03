@@ -3,7 +3,7 @@ layout: post
 title: Holy jesus, indeed
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Patriotism
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: State Fair Guide for the iPhone
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

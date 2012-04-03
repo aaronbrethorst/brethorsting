@@ -3,7 +3,7 @@ layout: post
 title: Ticketmaster now owns my soul, half of last paycheck
 tags: 
 - Music
-status: publish
+comments: true
 type: post
 published: true
 meta: 

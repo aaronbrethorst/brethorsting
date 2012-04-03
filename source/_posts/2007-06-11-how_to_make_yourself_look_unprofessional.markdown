@@ -3,7 +3,7 @@ layout: post
 title: How to make yourself look unprofessional
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

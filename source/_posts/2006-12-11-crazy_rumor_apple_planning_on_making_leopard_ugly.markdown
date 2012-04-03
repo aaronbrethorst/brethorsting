@@ -3,7 +3,7 @@ layout: post
 title: "Crazy rumor: Apple planning on making Leopard ugly"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

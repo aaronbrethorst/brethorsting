@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "school\xE2\x80\x99s out forever"
+title: "school' out forever"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

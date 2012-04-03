@@ -3,7 +3,7 @@ layout: post
 title: "Paul Jenkins: The GOP's White Supremacy"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

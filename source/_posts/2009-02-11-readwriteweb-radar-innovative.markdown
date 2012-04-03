@@ -3,7 +3,7 @@ layout: post
 title: "ReadWriteWeb: Radar \"Innovative\""
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

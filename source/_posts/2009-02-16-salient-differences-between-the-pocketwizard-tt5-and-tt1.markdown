@@ -3,7 +3,7 @@ layout: post
 title: Salient differences between the PocketWizard TT5 and TT1
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Vista\xE2\x80\x99s New Start Menu"
+title: "Vista' New Start Menu"
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

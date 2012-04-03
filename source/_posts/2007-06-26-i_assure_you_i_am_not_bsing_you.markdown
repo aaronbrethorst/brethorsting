@@ -4,7 +4,7 @@ title: "I assure you, I am not BS\xE2\x80\x99ing you"
 tags: 
 - Customers and Community
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

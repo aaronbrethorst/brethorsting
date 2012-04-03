@@ -4,7 +4,7 @@ title: Sukeban Shachou Rena - That's right, there really is no god
 tags: 
 - Japan
 - Video Games
-status: publish
+comments: true
 type: post
 published: true
 meta: 

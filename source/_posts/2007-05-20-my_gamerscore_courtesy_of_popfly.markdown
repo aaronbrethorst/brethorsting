@@ -3,7 +3,7 @@ layout: post
 title: My gamerscore, courtesy of Popfly
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

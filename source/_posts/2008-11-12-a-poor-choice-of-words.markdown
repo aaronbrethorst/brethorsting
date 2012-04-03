@@ -3,7 +3,7 @@ layout: post
 title: A Poor Choice of Words
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: All Shell all the Time
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

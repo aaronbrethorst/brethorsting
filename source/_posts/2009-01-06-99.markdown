@@ -3,7 +3,7 @@ layout: post
 title: "99.2\xC2\xBAF"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: iRooster 2.0 Released!!!
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

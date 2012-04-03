@@ -4,7 +4,7 @@ title: Announcing the NYTimes Congress API
 tags: 
 - Technology
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

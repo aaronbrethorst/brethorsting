@@ -3,7 +3,7 @@ layout: post
 title: Using Visual Studio and Subversion?
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

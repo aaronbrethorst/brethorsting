@@ -5,7 +5,7 @@ tags:
 - Apple
 - Microsoft
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

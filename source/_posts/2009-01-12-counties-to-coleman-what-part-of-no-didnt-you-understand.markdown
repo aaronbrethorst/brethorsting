@@ -3,7 +3,7 @@ layout: post
 title: "Counties to Coleman: What Part of 'No' Didn't You Understand?"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

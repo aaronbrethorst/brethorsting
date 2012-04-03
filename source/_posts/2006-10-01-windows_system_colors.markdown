@@ -3,7 +3,7 @@ layout: post
 title: Windows System Colors
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

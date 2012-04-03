@@ -3,7 +3,7 @@ layout: post
 title: Flash Lite 2.1 Preview for Windows Mobile 5
 tags: 
 - Windows Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

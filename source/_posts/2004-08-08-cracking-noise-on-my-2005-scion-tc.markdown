@@ -3,7 +3,7 @@ layout: post
 title: Cracking Noise on my 2005 Scion tC
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

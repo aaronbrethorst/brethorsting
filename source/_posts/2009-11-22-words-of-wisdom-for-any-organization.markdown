@@ -3,7 +3,7 @@ layout: post
 title: Words of wisdom for any organization
 tags: 
 - Management
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: "Meet UAC - Why you must factor out your apps\xE2\x80\x99 admin component
 tags: 
 - UAC
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

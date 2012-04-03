@@ -3,7 +3,7 @@ layout: post
 title: Pictures from the Seattle Center
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

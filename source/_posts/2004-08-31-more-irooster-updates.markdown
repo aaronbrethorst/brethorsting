@@ -3,7 +3,7 @@ layout: post
 title: More iRooster Updates
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

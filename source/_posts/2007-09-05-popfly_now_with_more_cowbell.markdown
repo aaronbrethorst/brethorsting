@@ -3,7 +3,7 @@ layout: post
 title: Popfly, now with more cowbell
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

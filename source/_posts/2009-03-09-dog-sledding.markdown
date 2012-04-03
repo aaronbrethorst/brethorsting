@@ -3,7 +3,7 @@ layout: post
 title: Dog Sledding
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

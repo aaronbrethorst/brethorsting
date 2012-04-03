@@ -3,7 +3,7 @@ layout: post
 title: SB 5073 - Medical Marijuana
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

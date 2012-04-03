@@ -3,7 +3,7 @@ layout: post
 title: Channel 9 Interview with Jenny Lam, the Windows Ux Poobah
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Producing Software, the Easy Way
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Windows Developers vs. Mac Users
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: Meet UAC - Creating a UAC Manifest
 tags: 
 - UAC
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

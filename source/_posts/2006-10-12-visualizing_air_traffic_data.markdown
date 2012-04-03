@@ -3,7 +3,7 @@ layout: post
 title: Visualizing Air Traffic Data
 tags: 
 - Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

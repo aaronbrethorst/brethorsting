@@ -3,7 +3,7 @@ layout: post
 title: Chimp Tunes working better again
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

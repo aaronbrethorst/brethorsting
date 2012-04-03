@@ -3,7 +3,7 @@ layout: post
 title: Grungy film textures for photos
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

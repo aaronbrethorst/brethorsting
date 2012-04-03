@@ -4,7 +4,7 @@ title: Pike's Place Market
 tags: 
 - Photography
 - Seattle
-status: publish
+comments: true
 type: post
 published: true
 meta: 

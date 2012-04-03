@@ -3,7 +3,7 @@ layout: post
 title: ScottGu talks about Silverlight
 tags: 
 - Silverlight
-status: publish
+comments: true
 type: post
 published: true
 meta: 

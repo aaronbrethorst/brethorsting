@@ -3,7 +3,7 @@ layout: post
 title: Watch out for that swine flu
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

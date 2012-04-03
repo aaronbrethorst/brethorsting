@@ -3,7 +3,7 @@ layout: post
 title: "Super Obama World: Productivity Plummets"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

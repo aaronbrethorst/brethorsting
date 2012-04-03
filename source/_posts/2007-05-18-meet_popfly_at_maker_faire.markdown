@@ -3,7 +3,7 @@ layout: post
 title: Meet Popfly at Maker Faire!
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

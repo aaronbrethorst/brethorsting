@@ -3,7 +3,7 @@ layout: post
 title: Ax Shims
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

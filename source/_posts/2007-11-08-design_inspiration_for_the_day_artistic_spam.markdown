@@ -3,7 +3,7 @@ layout: post
 title: "Design inspiration for the day: artistic spam"
 tags: 
 - Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

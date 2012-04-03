@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Matt\xE2\x80\x99s in the Market"
+title: "Matt' in the Market"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Guess who was just accepted by PhotoShelter!
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

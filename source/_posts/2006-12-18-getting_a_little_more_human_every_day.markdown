@@ -3,7 +3,7 @@ layout: post
 title: Getting a little more human every day
 tags: 
 - Customers and Community
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: New UI Metaphors
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

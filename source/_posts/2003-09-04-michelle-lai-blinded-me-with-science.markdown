@@ -3,7 +3,7 @@ layout: post
 title: Michelle Lai blinded me with science
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "A moment to be afraid\xE2\x80\xA6"
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

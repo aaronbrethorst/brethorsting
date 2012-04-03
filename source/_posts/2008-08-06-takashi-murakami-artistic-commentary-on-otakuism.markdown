@@ -4,7 +4,7 @@ title: Takashi Murakami - artistic commentary on otakuism
 tags: 
 - Graphic Design
 - Music
-status: publish
+comments: true
 type: post
 published: true
 meta: 

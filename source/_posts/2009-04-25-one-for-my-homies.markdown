@@ -3,7 +3,7 @@ layout: post
 title: One for my homies
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

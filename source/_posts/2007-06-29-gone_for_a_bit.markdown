@@ -3,7 +3,7 @@ layout: post
 title: Gone for a bit
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

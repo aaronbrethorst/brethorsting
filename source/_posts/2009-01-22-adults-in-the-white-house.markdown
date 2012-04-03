@@ -3,7 +3,7 @@ layout: post
 title: Adults in the White House
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

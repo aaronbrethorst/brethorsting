@@ -3,7 +3,7 @@ layout: post
 title: Death Cab for Cutie and TV on the Radio
 tags: 
 - Music
-status: publish
+comments: true
 type: post
 published: true
 meta: 

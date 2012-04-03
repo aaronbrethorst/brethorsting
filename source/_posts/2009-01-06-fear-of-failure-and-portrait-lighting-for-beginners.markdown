@@ -3,7 +3,7 @@ layout: post
 title: Fear of Failure and Portrait Lighting for Beginners
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

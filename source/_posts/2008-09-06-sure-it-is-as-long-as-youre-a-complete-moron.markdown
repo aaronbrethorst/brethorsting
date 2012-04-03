@@ -3,7 +3,7 @@ layout: post
 title: Sure it is, as long as you're a complete moron
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

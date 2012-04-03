@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "John Gabriel\xE2\x80\x99s G.I.F. Theory Proven Correct Again"
+title: "John Gabriel' G.I.F. Theory Proven Correct Again"
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Movable Type 3.2 Can Bite Me
 tags: 
 - Blogs
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

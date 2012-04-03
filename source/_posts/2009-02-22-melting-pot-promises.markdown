@@ -3,7 +3,7 @@ layout: post
 title: Melting Pot Promises
 tags: 
 - Americana
-status: publish
+comments: true
 type: post
 published: true
 meta: 

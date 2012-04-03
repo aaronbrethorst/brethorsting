@@ -3,7 +3,7 @@ layout: post
 title: "More on the Sinclair BG \xE2\x80\x9CDocumentary\xE2\x80\x9D"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

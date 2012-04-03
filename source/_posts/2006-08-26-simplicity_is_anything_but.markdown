@@ -3,7 +3,7 @@ layout: post
 title: Simplicity is Anything But
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

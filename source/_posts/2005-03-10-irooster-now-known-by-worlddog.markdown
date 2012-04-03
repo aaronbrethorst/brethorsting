@@ -3,7 +3,7 @@ layout: post
 title: iRooster Now Known by World+Dog
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

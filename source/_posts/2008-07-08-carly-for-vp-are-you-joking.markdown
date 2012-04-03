@@ -4,7 +4,7 @@ title: Carly for VP? Are you joking?
 tags: 
 - Technology
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

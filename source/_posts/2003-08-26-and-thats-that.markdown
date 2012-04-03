@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "And that\xE2\x80\x99s that"
+title: "And that' that"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

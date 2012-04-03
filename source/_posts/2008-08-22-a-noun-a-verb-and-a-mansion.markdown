@@ -3,7 +3,7 @@ layout: post
 title: A noun, a verb, and a mansion?
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

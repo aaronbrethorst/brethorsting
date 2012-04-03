@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "A Minnesotan\xE2\x80\x99s Take On Arnold"
+title: "A Minnesotan' Take On Arnold"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

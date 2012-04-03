@@ -3,7 +3,7 @@ layout: post
 title: Cozi Central launches, families can breathe a little easier
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: 

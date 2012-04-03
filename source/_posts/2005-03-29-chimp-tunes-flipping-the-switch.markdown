@@ -3,7 +3,7 @@ layout: post
 title: "Chimp Tunes: Flipping the Switch"
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

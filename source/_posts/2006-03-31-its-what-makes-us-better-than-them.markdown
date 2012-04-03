@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "It\xE2\x80\x99s What Makes Us Better Than Them"
+title: "It' What Makes Us Better Than Them"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

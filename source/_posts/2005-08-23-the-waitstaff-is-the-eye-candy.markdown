@@ -3,7 +3,7 @@ layout: post
 title: "\xE2\x80\x9CThe Waitstaff *is* the Eye-Candy\xE2\x80\x9D"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

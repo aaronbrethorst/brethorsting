@@ -4,7 +4,7 @@ title: Dan Tynan is a dolt on Office 2007
 tags: 
 - Usability
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: 

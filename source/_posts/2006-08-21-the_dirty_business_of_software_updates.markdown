@@ -3,7 +3,7 @@ layout: post
 title: The Dirty Business of Software Updates
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

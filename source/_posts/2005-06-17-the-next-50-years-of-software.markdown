@@ -3,7 +3,7 @@ layout: post
 title: The Next 50 Years of Software
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

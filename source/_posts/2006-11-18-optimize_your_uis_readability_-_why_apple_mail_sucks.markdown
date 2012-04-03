@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Optimize your UI\xE2\x80\x99s readability - why Apple Mail sucks"
+title: "Optimize your UI' readability - why Apple Mail sucks"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

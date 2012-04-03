@@ -3,7 +3,7 @@ layout: post
 title: iRooster 1.0 Now Available
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Words to live by
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: Notable Lesbian Discusses Republican Teabagging
 tags: 
 - Random Funniness
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

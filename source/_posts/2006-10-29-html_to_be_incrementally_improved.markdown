@@ -3,7 +3,7 @@ layout: post
 title: HTML to be incrementally improved
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

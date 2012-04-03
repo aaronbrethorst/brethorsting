@@ -3,7 +3,7 @@ layout: post
 title: Bingo!
 tags: 
 - Customers and Community
-status: publish
+comments: true
 type: post
 published: true
 meta: 

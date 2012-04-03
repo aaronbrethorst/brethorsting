@@ -3,7 +3,7 @@ layout: post
 title: and oh, my love, my love
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

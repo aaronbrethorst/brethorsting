@@ -3,7 +3,7 @@ layout: post
 title: Cheer up, emo kid!
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

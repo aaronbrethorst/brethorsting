@@ -3,7 +3,7 @@ layout: post
 title: Apartment Furnishings
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

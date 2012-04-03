@@ -3,7 +3,7 @@ layout: post
 title: Roblimo seems grumpy
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

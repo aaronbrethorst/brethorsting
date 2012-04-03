@@ -3,7 +3,7 @@ layout: post
 title: Made in a wee sheep's stomach
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

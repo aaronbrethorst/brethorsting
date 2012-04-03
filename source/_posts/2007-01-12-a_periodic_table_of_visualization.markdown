@@ -3,7 +3,7 @@ layout: post
 title: A periodic table of visualization
 tags: 
 - Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

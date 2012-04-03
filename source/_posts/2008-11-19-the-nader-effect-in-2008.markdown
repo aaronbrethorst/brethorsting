@@ -3,7 +3,7 @@ layout: post
 title: The Nader Effect in 2008
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

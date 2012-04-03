@@ -4,7 +4,7 @@ title: Windows Phone 7 Series Looks Beautiful and Unusable
 tags: 
 - Microsoft
 - Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

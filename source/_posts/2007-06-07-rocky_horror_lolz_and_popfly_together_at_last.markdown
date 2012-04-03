@@ -3,7 +3,7 @@ layout: post
 title: "Rocky Horror, Lolz and Popfly: Together at Last"
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

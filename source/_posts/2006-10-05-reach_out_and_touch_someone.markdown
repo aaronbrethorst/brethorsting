@@ -3,7 +3,7 @@ layout: post
 title: Reach out and touch someone
 tags: 
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: 

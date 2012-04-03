@@ -3,7 +3,7 @@ layout: post
 title: Snakes on a Motherfucking Plane
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

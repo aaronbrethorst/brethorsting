@@ -3,7 +3,7 @@ layout: post
 title: Stop Eating Poop!
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

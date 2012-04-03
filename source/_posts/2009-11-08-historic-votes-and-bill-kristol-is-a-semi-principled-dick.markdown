@@ -3,7 +3,7 @@ layout: post
 title: Historic votes, and Bill Kristol is a (semi-principled) dick
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

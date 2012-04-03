@@ -3,7 +3,7 @@ layout: post
 title: Barack Obama Travels by Forklift
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

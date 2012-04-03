@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Build Outlook 2007\xE2\x80\x99s UI in WPF - Hand-on Lab"
+title: "Build Outlook 2007' UI in WPF - Hand-on Lab"
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: Circlejerks
 tags: 
 - Blogs
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

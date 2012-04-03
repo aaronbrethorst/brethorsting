@@ -3,7 +3,7 @@ layout: post
 title: Double-fisting with Guiness and tea at the Venture All-Stars Party
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

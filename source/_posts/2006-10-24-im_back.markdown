@@ -3,7 +3,7 @@ layout: post
 title: "I\xE2\x80\x99m Back"
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

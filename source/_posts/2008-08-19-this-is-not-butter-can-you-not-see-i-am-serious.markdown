@@ -3,7 +3,7 @@ layout: post
 title: This is not butter, can you not see I am serious!?
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

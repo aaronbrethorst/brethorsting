@@ -3,7 +3,7 @@ layout: post
 title: 3D Maps in Your Browser
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

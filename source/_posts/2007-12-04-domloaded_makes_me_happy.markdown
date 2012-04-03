@@ -3,7 +3,7 @@ layout: post
 title: dom:loaded makes me happy
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

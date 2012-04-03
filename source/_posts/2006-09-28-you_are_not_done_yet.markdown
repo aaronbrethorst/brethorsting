@@ -3,7 +3,7 @@ layout: post
 title: You are not done yet!
 tags: 
 - Accessibility
-status: publish
+comments: true
 type: post
 published: true
 meta: 

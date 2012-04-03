@@ -3,7 +3,7 @@ layout: post
 title: overheard in seattle
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

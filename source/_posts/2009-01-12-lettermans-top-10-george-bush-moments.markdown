@@ -3,7 +3,7 @@ layout: post
 title: Letterman's Top 10 George Bush moments
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

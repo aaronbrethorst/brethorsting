@@ -3,7 +3,7 @@ layout: post
 title: Onyx - Concept Mobile Phone
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

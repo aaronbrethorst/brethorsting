@@ -3,7 +3,7 @@ layout: post
 title: God, I love Penny Arcade
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Ten cool places to work
 tags: 
 - Interior Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

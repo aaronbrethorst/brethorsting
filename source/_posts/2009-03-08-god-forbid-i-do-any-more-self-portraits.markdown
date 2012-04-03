@@ -3,7 +3,7 @@ layout: post
 title: God forbid I do any more self-portraits...
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

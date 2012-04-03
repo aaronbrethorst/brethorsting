@@ -3,7 +3,7 @@ layout: post
 title: "You Know Your Presidency is Screwed When\xE2\x80\xA6"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

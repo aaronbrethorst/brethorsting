@@ -3,7 +3,7 @@ layout: post
 title: A Party of Whiners
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

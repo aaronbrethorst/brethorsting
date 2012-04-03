@@ -3,7 +3,7 @@ layout: post
 title: Piping hot Popfly, fresh out of the oven!
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

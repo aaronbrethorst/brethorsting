@@ -3,7 +3,7 @@ layout: post
 title: Consistent Dialog Non-Client Areas with Winforms
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: 

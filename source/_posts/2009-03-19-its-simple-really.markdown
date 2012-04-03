@@ -3,7 +3,7 @@ layout: post
 title: It's Simple Really...
 tags: 
 - Project Runway
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Exchange of the day
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

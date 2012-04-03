@@ -3,7 +3,7 @@ layout: post
 title: "Fuck originality: want a free print?"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

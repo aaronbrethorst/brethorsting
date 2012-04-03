@@ -3,7 +3,7 @@ layout: post
 title: Styling NSWindows in Cocoa
 tags: 
 - Cocoa
-status: publish
+comments: true
 type: post
 published: true
 meta: 

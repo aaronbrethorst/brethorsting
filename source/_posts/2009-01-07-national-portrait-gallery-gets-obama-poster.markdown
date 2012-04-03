@@ -3,7 +3,7 @@ layout: post
 title: National Portrait Gallery Gets Obama Poster
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

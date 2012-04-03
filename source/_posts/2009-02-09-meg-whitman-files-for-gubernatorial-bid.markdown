@@ -3,7 +3,7 @@ layout: post
 title: Meg Whitman Files for Gubernatorial Bid
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

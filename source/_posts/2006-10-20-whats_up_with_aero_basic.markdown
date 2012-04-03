@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "What\xE2\x80\x99s up with Aero Basic?"
+title: "What' up with Aero Basic?"
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

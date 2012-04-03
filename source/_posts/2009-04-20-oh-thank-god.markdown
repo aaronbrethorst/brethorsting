@@ -3,7 +3,7 @@ layout: post
 title: Oh thank god
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

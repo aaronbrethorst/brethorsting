@@ -3,7 +3,7 @@ layout: post
 title: Pitchers of Liquors and Milk
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

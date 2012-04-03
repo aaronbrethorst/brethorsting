@@ -3,7 +3,7 @@ layout: post
 title: Flickr Meme - Far be it from me to not be a crowd-follower
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

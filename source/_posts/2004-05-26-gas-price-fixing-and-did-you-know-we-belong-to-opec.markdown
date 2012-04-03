@@ -3,7 +3,7 @@ layout: post
 title: Gas Price Fixing, and did you know we belong to OPEC?
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

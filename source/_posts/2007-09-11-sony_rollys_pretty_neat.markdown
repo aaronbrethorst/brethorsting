@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Sony Rolly\xE2\x80\x99s Pretty Neat"
+title: "Sony Rolly' Pretty Neat"
 tags: 
 - Design
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: 

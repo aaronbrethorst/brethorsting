@@ -3,7 +3,7 @@ layout: post
 title: Color Pickers
 tags: 
 - Windows Forms
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Me Tarzan, Me No Need Jane
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

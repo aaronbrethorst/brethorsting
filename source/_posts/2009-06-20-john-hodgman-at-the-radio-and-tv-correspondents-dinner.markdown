@@ -3,7 +3,7 @@ layout: post
 title: John Hodgman at the Radio and TV Correspondents' Dinner
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Getting on the Bandwagon for free stuff
 tags: 
 - Customers and Community
-status: publish
+comments: true
 type: post
 published: true
 meta: 

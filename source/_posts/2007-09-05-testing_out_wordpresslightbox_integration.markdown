@@ -3,7 +3,7 @@ layout: post
 title: Testing out WordPress/Lightbox integration
 tags: 
 - Aaron
-status: publish
+comments: true
 type: post
 published: true
 meta: 

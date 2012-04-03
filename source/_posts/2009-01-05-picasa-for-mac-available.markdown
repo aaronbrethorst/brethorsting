@@ -3,7 +3,7 @@ layout: post
 title: Picasa for Mac Available
 tags: 
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

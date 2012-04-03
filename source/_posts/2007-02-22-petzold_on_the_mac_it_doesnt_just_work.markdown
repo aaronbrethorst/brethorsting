@@ -3,7 +3,7 @@ layout: post
 title: "Petzold on the Mac: It doesn\xE2\x80\x99t just work"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

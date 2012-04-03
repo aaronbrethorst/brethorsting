@@ -3,7 +3,7 @@ layout: post
 title: Breaking Bread
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

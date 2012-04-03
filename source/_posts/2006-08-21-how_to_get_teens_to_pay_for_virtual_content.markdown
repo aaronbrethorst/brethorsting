@@ -3,7 +3,7 @@ layout: post
 title: How to Get Teens to Pay for Virtual Content
 tags: 
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: 

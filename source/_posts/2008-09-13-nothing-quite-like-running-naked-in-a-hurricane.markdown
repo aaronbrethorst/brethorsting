@@ -3,7 +3,7 @@ layout: post
 title: Nothing Quite Like Running Naked in a Hurricane
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

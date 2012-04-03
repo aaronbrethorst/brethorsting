@@ -3,7 +3,7 @@ layout: post
 title: The end times are nigh
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: More about fun user experiences
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

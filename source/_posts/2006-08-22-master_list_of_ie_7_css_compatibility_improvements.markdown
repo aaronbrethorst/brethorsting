@@ -3,7 +3,7 @@ layout: post
 title: Master List of IE 7 CSS Compatibility Improvements
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

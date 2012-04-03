@@ -3,7 +3,7 @@ layout: post
 title: Calling a spade a spade, and progressivism progressivism
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Top 7 video sites, rated by look-and-feel
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

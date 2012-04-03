@@ -3,7 +3,7 @@ layout: post
 title: "Oh, sweet jesus\xE2\x80\xA6"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

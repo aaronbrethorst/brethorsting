@@ -3,7 +3,7 @@ layout: post
 title: Beyond Avoidance
 tags: 
 - Aaron
-status: publish
+comments: true
 type: post
 published: true
 meta: 

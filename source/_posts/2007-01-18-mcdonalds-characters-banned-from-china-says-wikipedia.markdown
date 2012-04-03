@@ -3,7 +3,7 @@ layout: post
 title: "\xE2\x80\x98McDonalds Characters banned from China,\xE2\x80\x99 says Wikipedia"
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

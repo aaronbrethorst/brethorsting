@@ -5,7 +5,7 @@ tags:
 - Seattle
 - Skytap
 - Startups
-status: publish
+comments: true
 type: post
 published: true
 meta: 

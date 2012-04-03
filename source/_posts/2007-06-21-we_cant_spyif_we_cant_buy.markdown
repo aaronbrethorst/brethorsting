@@ -4,7 +4,7 @@ title: "\xE2\x80\x9CWe can\xE2\x80\x99t spy\xE2\x80\xA6if we can\xE2\x80\x99t bu
 tags: 
 - UI Design
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

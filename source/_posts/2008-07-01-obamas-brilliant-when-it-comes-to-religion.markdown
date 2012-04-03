@@ -3,7 +3,7 @@ layout: post
 title: Obama's brilliant when it comes to religion
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

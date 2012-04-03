@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "KDE\xE2\x80\x99s New, Snazzy Start Menu"
+title: "KDE' New, Snazzy Start Menu"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Fucking, Austria and Crotch Crescent
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

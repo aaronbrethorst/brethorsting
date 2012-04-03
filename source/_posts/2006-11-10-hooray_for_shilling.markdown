@@ -3,7 +3,7 @@ layout: post
 title: Hooray for shilling!
 tags: 
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: 

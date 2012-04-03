@@ -3,7 +3,7 @@ layout: post
 title: MVP Website is Live
 tags: 
 - Minimum Viable Product
-status: publish
+comments: true
 type: post
 published: true
 meta: 

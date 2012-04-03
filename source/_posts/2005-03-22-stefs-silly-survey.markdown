@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Stef\xE2\x80\x99s Silly Survey"
+title: "Stef' Silly Survey"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

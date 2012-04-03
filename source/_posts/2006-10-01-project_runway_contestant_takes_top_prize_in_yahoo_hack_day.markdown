@@ -3,7 +3,7 @@ layout: post
 title: Project Runway contestant takes top prize in Yahoo Hack Day
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

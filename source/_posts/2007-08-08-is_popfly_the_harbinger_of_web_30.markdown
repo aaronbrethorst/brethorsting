@@ -3,7 +3,7 @@ layout: post
 title: Is Popfly the harbinger of Web 3.0?
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

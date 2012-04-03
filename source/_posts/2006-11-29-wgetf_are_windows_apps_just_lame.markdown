@@ -3,7 +3,7 @@ layout: post
 title: "WgeTF: are Windows apps just lame?"
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "The Big Picture: Chinese Lantern Festival"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

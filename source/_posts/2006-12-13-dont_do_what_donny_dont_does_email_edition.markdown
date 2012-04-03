@@ -3,7 +3,7 @@ layout: post
 title: "Don\xE2\x80\x99t do what Donny Don\xE2\x80\x99t does: Email Edition"
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

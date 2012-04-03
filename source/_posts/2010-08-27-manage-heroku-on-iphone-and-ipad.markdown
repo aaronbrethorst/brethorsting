@@ -4,7 +4,7 @@ title: Manage Heroku on iPhone and iPad
 tags: 
 - iPhone
 - Rails
-status: publish
+comments: true
 type: post
 published: true
 meta: 

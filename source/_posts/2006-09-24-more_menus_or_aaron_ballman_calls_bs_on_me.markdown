@@ -3,7 +3,7 @@ layout: post
 title: More Menus (or Aaron Ballman Calls BS on Me)
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

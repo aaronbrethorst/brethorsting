@@ -3,7 +3,7 @@ layout: post
 title: This was the moment...
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

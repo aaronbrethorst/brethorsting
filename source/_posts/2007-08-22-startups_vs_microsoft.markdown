@@ -3,7 +3,7 @@ layout: post
 title: Startups vs. Microsoft
 tags: 
 - Startups
-status: publish
+comments: true
 type: post
 published: true
 meta: 

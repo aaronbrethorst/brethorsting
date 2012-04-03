@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "A Brief Primer on Fitts\xE2\x80\x99s Law"
+title: "A Brief Primer on Fitts' Law"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: In Final News Conference, Bush Strikes Elegiac Tone - NYTimes.com
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

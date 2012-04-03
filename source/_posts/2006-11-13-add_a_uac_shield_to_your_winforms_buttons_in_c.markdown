@@ -4,7 +4,7 @@ title: Meet UAC - Add a UAC Shield to your Winforms buttons in C#
 tags: 
 - UAC
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

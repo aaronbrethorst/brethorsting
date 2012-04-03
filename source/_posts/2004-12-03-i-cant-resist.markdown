@@ -3,7 +3,7 @@ layout: post
 title: "I Can\xE2\x80\x99t Resist"
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: This Land Was Made for You and Me
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

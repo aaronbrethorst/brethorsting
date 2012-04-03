@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Here\xE2\x80\x99s Hoping\xE2\x80\xA6"
+title: "Here' Hoping\xE2\x80\xA6"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

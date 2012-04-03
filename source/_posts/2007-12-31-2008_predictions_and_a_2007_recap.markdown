@@ -3,7 +3,7 @@ layout: post
 title: 2008 Predictions, and a 2007 Recap
 tags: 
 - NewYears
-status: publish
+comments: true
 type: post
 published: true
 meta: 

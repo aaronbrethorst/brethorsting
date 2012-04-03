@@ -3,7 +3,7 @@ layout: post
 title: "When in Bangkok\xE2\x80\xA6"
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

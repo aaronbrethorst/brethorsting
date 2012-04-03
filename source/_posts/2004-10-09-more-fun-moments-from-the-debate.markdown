@@ -3,7 +3,7 @@ layout: post
 title: More fun moments from the debate
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

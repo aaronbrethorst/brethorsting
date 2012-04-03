@@ -3,7 +3,7 @@ layout: post
 title: Usability testing on a shoestring budget
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

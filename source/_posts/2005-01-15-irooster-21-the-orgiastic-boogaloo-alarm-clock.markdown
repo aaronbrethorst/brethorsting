@@ -3,7 +3,7 @@ layout: post
 title: "iRooster 2.1: The \xE2\x80\x9COrgiastic Boogaloo\xE2\x80\x9D Alarm Clock"
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

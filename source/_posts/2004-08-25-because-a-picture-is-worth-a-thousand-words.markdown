@@ -3,7 +3,7 @@ layout: post
 title: Because a picture is worth a thousand words
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

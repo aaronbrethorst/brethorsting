@@ -3,7 +3,7 @@ layout: post
 title: Portents and Signs
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

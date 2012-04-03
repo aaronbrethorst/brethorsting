@@ -3,7 +3,7 @@ layout: post
 title: Making everyone happy does everything but that
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

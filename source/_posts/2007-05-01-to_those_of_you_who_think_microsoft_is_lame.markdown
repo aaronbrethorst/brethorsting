@@ -3,7 +3,7 @@ layout: post
 title: To those of you who think Microsoft is lame
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

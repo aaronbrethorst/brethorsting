@@ -3,7 +3,7 @@ layout: post
 title: Orgiastic Boogaloo, Take Two
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

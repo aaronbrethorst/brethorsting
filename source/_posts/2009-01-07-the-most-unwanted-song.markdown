@@ -3,7 +3,7 @@ layout: post
 title: The Most Unwanted Song
 tags: 
 - Music
-status: publish
+comments: true
 type: post
 published: true
 meta: 

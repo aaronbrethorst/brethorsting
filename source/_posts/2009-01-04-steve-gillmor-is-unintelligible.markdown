@@ -3,7 +3,7 @@ layout: post
 title: Steve Gillmor is Unintelligible
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

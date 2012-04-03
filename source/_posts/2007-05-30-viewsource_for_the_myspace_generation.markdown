@@ -3,7 +3,7 @@ layout: post
 title: View.Source for the MySpace Generation
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

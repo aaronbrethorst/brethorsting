@@ -3,7 +3,7 @@ layout: post
 title: Election '08 Updated
 tags: 
 - iPhone
-status: publish
+comments: true
 type: post
 published: true
 meta: 

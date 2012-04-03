@@ -3,7 +3,7 @@ layout: post
 title: No title can do this image justice
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

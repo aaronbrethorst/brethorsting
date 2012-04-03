@@ -3,7 +3,7 @@ layout: post
 title: "Fooled Around and Ready to Settle Down\xE2\x80\xA6"
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

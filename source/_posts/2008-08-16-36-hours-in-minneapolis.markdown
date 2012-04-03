@@ -3,7 +3,7 @@ layout: post
 title: 36 Hours in Minneapolis
 tags: 
 - Travel
-status: publish
+comments: true
 type: post
 published: true
 meta: 

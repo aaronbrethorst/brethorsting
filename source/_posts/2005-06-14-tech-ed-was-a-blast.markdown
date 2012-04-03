@@ -3,7 +3,7 @@ layout: post
 title: Tech Ed Was a Blast
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

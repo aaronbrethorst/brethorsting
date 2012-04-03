@@ -3,7 +3,7 @@ layout: post
 title: "Gabe and Tycho Don\xE2\x80\x99t Like Shadow"
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

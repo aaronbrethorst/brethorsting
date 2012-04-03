@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Max Updated
 tags: 
 - WPF
-status: publish
+comments: true
 type: post
 published: true
 meta: 

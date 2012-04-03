@@ -3,7 +3,7 @@ layout: post
 title: Obama honors the dead at Fort Hood
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

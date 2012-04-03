@@ -3,7 +3,7 @@ layout: post
 title: We're not entitled to our own facts
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

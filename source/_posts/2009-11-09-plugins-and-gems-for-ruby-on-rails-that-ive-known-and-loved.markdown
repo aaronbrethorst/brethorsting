@@ -3,7 +3,7 @@ layout: post
 title: Plugins and Gems for Ruby on Rails that I've known and loved
 tags: 
 - Rails
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "error: does not compute"
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

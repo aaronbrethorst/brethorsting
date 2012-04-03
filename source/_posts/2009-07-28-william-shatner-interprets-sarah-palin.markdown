@@ -4,7 +4,7 @@ title: William Shatner Interprets Sarah Palin
 tags: 
 - Random Funniness
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

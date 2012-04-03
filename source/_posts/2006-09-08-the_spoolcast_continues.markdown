@@ -3,7 +3,7 @@ layout: post
 title: The Spoolcast Continues
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

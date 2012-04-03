@@ -4,7 +4,7 @@ title: Monty likes one of my pictures
 tags: 
 - Photography
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

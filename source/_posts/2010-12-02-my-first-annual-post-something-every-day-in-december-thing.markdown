@@ -3,7 +3,7 @@ layout: post
 title: My first annual post-something-every-day-in-December thing
 tags: 
 - Aaron
-status: publish
+comments: true
 type: post
 published: true
 meta: 

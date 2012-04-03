@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on Visual Studio 2010: 50x14 DLU or 75x23px"
 tags: 
 - Microsoft
-status: publish
+comments: true
 type: post
 published: true
 meta: 

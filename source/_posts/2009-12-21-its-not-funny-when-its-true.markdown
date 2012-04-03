@@ -4,7 +4,7 @@ title: It's not funny when it's true
 tags: 
 - Aaron
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

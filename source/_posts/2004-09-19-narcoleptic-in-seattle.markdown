@@ -3,7 +3,7 @@ layout: post
 title: Narcoleptic in Seattle
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

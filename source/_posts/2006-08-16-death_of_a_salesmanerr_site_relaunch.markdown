@@ -3,7 +3,7 @@ layout: post
 title: "Death of a Salesman\xE2\x80\xA6Err, Site Relaunch"
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

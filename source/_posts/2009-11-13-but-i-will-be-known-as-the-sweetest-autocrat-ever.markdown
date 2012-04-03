@@ -3,7 +3,7 @@ layout: post
 title: But I will be known as the sweetest autocrat ever...
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

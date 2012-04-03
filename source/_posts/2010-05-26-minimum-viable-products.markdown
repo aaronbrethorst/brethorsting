@@ -3,7 +3,7 @@ layout: post
 title: Minimum Viable Products
 tags: 
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

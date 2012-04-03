@@ -4,7 +4,7 @@ title: Skagit Valley Tulip Festival
 tags: 
 - Aaron
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

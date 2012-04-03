@@ -3,7 +3,7 @@ layout: post
 title: Carly knows all about the lack of qualifications
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

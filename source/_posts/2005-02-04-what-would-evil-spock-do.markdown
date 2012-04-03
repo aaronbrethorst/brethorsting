@@ -3,7 +3,7 @@ layout: post
 title: What Would Evil Spock Do?
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

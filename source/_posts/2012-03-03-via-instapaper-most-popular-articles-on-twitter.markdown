@@ -3,7 +3,7 @@ layout: post
 title: (via Instapaper) - the most popular articles on Twitter
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

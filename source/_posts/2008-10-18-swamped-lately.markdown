@@ -4,7 +4,7 @@ title: Swamped, lately
 tags: 
 - iPhone
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

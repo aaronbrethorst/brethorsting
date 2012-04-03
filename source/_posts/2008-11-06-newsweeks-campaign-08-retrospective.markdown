@@ -3,7 +3,7 @@ layout: post
 title: Newsweek's Campaign '08 Retrospective
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

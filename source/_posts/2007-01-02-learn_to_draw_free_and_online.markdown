@@ -3,7 +3,7 @@ layout: post
 title: Learn to draw free and online
 tags: 
 - Graphic Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

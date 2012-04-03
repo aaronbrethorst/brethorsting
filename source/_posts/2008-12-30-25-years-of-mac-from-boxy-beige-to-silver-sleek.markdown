@@ -3,7 +3,7 @@ layout: post
 title: "25 Years of Mac: From Boxy Beige to Silver Sleek"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

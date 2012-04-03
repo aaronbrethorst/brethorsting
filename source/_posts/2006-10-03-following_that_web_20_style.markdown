@@ -3,7 +3,7 @@ layout: post
 title: Following that Web 2.0 Style
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

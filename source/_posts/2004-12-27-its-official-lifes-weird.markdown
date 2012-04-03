@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "It\xE2\x80\x99s Official, Life\xE2\x80\x99s Weird"
+title: "It' Official, Life' Weird"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

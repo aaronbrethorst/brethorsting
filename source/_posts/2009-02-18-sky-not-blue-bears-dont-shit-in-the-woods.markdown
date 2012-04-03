@@ -3,7 +3,7 @@ layout: post
 title: Sky not blue, bears don't shit in the woods
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

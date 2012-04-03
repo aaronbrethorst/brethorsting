@@ -3,7 +3,7 @@ layout: post
 title: How Fake Steve Jobs Made Me Look Weird(er)
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Introducing Cider - Next-Gen UI Layout
 tags: 
 - WPF
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Five Invitations to Popfly
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

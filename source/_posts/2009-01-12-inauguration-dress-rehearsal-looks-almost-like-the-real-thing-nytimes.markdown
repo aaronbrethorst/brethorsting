@@ -3,7 +3,7 @@ layout: post
 title: Inauguration Dress Rehearsal Looks Almost Like the Real Thing - NYTimes.com
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

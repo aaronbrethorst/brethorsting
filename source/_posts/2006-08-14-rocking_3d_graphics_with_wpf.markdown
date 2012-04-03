@@ -3,7 +3,7 @@ layout: post
 title: Rocking 3D Graphics with WPF
 tags: 
 - WPF
-status: publish
+comments: true
 type: post
 published: true
 meta: 

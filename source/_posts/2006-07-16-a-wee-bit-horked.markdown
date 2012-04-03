@@ -3,7 +3,7 @@ layout: post
 title: a wee bit horked
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Has McCain Completely Lost His Marbles?
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

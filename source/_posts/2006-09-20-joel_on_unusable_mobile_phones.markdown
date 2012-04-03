@@ -3,7 +3,7 @@ layout: post
 title: Joel on Unusable Mobile Phones
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

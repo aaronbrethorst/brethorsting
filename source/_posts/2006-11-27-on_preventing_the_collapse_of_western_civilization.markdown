@@ -3,7 +3,7 @@ layout: post
 title: On preventing the collapse of Western civilization
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: 

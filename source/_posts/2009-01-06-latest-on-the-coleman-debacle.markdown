@@ -3,7 +3,7 @@ layout: post
 title: Latest on the Coleman Debacle
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

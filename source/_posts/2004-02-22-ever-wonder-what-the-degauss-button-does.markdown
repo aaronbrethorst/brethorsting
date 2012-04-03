@@ -3,7 +3,7 @@ layout: post
 title: Ever Wonder What the Degauss Button Does?
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

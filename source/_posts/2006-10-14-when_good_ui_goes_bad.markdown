@@ -3,7 +3,7 @@ layout: post
 title: When Good UI Goes Bad
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

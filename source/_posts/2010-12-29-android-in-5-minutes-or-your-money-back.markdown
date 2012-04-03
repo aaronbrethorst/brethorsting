@@ -4,7 +4,7 @@ title: Android in 5 Minutes (or your money back!)
 tags: 
 - Android
 - Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "What\xE2\x80\x99s Your Dress Code?"
+title: "What' Your Dress Code?"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

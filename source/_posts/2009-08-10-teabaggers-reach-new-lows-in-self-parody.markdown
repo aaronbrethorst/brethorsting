@@ -3,7 +3,7 @@ layout: post
 title: Teabaggers reach new lows in self-parody
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

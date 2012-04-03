@@ -3,7 +3,7 @@ layout: post
 title: All Photos, All the Time and the Mac Ethos
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

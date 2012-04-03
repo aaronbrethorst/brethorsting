@@ -3,7 +3,7 @@ layout: post
 title: Are you Web 2.0 enough?
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

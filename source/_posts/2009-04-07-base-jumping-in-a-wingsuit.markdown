@@ -3,7 +3,7 @@ layout: post
 title: BASE Jumping in a Wingsuit
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

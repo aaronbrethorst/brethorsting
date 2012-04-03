@@ -3,7 +3,7 @@ layout: post
 title: "Because I\xE2\x80\x99m feeling bored"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

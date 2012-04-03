@@ -3,7 +3,7 @@ layout: post
 title: "'Pubs n' Schisms"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

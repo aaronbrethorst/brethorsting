@@ -3,7 +3,7 @@ layout: post
 title: Olympia Snowe (R-ME) is screwed
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

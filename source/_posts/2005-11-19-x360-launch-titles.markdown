@@ -3,7 +3,7 @@ layout: post
 title: X360 Launch Titles
 tags: 
 - Video Games
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

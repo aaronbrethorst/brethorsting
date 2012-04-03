@@ -4,7 +4,7 @@ title: Polish and The Mythical Man Weekend
 tags: 
 - Personal Life
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

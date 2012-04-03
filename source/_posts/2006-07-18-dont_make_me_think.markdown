@@ -3,7 +3,7 @@ layout: post
 title: "Don\xE2\x80\x99t Make Me Think"
 tags: 
 - Books
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

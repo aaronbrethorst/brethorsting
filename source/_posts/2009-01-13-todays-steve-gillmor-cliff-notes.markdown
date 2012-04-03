@@ -3,7 +3,7 @@ layout: post
 title: Today's Steve Gillmor Cliff Notes
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

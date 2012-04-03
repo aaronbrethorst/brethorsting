@@ -3,7 +3,7 @@ layout: post
 title: Time for Olympia to pull an Arlen
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

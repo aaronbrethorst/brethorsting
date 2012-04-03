@@ -3,7 +3,7 @@ layout: post
 title: Future Self
 tags: 
 - Aaron
-status: publish
+comments: true
 type: post
 published: true
 meta: 

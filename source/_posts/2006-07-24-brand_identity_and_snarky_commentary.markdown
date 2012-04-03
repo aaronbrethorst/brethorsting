@@ -3,7 +3,7 @@ layout: post
 title: Brand, Identity, and Snarky Commentary
 tags: 
 - Branding
-status: publish
+comments: true
 type: post
 published: true
 meta: 

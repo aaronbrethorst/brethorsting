@@ -3,7 +3,7 @@ layout: post
 title: Featured in two places this week
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

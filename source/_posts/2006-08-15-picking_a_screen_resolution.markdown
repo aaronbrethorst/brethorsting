@@ -3,7 +3,7 @@ layout: post
 title: Picking a Screen Resolution
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

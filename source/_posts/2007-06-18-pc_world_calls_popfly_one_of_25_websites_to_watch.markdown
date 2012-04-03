@@ -3,7 +3,7 @@ layout: post
 title: PC World calls Popfly one of 25 websites to watch
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

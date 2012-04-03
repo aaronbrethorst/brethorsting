@@ -3,7 +3,7 @@ layout: post
 title: "Motorola Unveils a \xE2\x80\x98Dumb\xE2\x80\x99 Phone"
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: 

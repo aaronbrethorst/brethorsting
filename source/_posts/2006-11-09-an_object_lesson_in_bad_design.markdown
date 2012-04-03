@@ -3,7 +3,7 @@ layout: post
 title: An object lesson in bad design
 tags: 
 - Branding
-status: publish
+comments: true
 type: post
 published: true
 meta: 

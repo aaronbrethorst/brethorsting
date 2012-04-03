@@ -3,7 +3,7 @@ layout: post
 title: New beginnings (I left Microsoft)
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Not Zune Enough!
 tags: 
 - Windows Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

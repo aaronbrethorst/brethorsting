@@ -3,7 +3,7 @@ layout: post
 title: Bad Errors and Really Bad Errors
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

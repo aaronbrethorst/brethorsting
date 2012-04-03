@@ -3,7 +3,7 @@ layout: post
 title: Interview with Lili Cheng, Windows Ux Director, on PodTech
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

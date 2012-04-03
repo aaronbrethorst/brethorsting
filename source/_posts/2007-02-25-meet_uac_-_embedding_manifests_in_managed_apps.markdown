@@ -4,7 +4,7 @@ title: Meet UAC - Embedding Manifests in Managed Apps
 tags: 
 - UAC
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

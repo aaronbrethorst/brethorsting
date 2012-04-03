@@ -3,7 +3,7 @@ layout: post
 title: An interactive interaction design conversation
 tags: 
 - UI Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

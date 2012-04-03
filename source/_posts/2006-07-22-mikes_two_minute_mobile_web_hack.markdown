@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Mike\xE2\x80\x99s Two Minute Mobile Web Hack"
+title: "Mike' Two Minute Mobile Web Hack"
 tags: 
 - Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

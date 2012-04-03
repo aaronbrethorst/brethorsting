@@ -4,7 +4,7 @@ title: Meet UAC - Understanding Virtualization and Run Levels
 tags: 
 - UAC
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

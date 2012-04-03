@@ -3,7 +3,7 @@ layout: post
 title: MT Weirdness
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

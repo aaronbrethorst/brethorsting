@@ -4,7 +4,7 @@ title: "Hi, I\xE2\x80\x99m a Mac and obsessed with oversimplification"
 tags: 
 - Advertising
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

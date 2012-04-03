@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Aaron\xE2\x80\x99s UI Design Blog on hold until Wednesday(?)"
+title: "Aaron' UI Design Blog on hold until Wednesday(?)"
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

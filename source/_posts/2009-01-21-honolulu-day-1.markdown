@@ -3,7 +3,7 @@ layout: post
 title: Honolulu, Day 1
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Heart of Hearts
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

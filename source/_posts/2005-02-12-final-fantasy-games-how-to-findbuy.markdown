@@ -3,7 +3,7 @@ layout: post
 title: Final Fantasy Games - How to Find/Buy
 tags: 
 - Video Games
-status: publish
+comments: true
 type: post
 published: true
 meta: 

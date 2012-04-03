@@ -3,7 +3,7 @@ layout: post
 title: Zen and the Art of CSS
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

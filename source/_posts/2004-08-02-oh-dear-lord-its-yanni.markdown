@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Oh dear lord, it\xE2\x80\x99s Yanni"
+title: "Oh dear lord, it' Yanni"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

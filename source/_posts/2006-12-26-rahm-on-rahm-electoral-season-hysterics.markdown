@@ -3,7 +3,7 @@ layout: post
 title: "Rahm on Rahm: Electoral Season Hysterics"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

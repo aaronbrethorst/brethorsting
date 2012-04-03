@@ -4,7 +4,7 @@ title: And on a lighter note...
 tags: 
 - iPhone
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "Emerging Fully Formed from Steve Jobs\xE2\x80\x99 Forehead"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

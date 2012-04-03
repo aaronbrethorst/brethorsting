@@ -3,7 +3,7 @@ layout: post
 title: "Sprinkle on a Little Ribbon and You\xE2\x80\x99re Good to\xE2\x80\xA6Oh Wait"
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

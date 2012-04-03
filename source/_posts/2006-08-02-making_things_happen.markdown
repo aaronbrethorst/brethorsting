@@ -3,7 +3,7 @@ layout: post
 title: Making Things Happen
 tags: 
 - Books
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "Science Friday\xE2\x80\xA6 Err, Thursday"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

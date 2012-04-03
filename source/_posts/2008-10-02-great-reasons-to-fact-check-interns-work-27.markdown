@@ -3,7 +3,7 @@ layout: post
 title: "Great Reasons to Fact-Check Interns' Work, #27"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

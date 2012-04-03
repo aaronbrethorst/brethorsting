@@ -3,7 +3,7 @@ layout: post
 title: 8 Steps to Better Markup
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

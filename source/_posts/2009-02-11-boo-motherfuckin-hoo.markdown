@@ -3,7 +3,7 @@ layout: post
 title: Boo-Motherfuckin'-Hoo
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

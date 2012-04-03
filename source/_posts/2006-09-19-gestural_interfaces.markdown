@@ -3,7 +3,7 @@ layout: post
 title: Gestural Interfaces
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

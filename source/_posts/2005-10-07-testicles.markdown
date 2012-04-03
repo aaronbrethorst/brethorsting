@@ -3,7 +3,7 @@ layout: post
 title: Testicles
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

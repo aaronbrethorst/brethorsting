@@ -3,7 +3,7 @@ layout: post
 title: Take Me Out to the Concession Stand
 tags: 
 - Travel
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: "Selling to small business: ease of use is key"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

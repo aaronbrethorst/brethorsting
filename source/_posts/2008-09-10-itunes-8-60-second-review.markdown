@@ -4,7 +4,7 @@ title: "iTunes 8: 60 Second Review"
 tags: 
 - Apple
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

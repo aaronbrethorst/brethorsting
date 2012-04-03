@@ -3,7 +3,7 @@ layout: post
 title: Safari 1.0 Blues
 tags: 
 - Blogs
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

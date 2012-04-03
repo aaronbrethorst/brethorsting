@@ -3,7 +3,7 @@ layout: post
 title: Dogs in Buns!
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

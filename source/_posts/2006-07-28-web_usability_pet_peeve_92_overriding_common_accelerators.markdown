@@ -3,7 +3,7 @@ layout: post
 title: "Web Usability Pet Peeve #92: Overriding Common Accelerators"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Buying a Phone
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

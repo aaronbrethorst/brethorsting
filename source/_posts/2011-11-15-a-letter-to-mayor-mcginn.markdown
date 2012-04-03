@@ -3,7 +3,7 @@ layout: post
 title: A letter to Mayor McGinn
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

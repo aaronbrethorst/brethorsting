@@ -3,7 +3,7 @@ layout: post
 title: "See No Clich\xC3\xA9"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

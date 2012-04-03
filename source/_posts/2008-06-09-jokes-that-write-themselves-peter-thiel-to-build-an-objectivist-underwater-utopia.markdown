@@ -3,7 +3,7 @@ layout: post
 title: "Jokes That Write Themselves: Peter Thiel to Build an Objectivist Underwater Utopia"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

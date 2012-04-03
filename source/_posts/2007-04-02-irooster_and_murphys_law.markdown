@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "iRooster and Murphy\xE2\x80\x99s Law"
+title: "iRooster and Murphy' Law"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

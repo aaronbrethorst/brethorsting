@@ -3,7 +3,7 @@ layout: post
 title: Jessica Simpson
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

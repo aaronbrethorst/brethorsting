@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "What\xE2\x80\x99s Eating WCAG 2?"
+title: "What' Eating WCAG 2?"
 tags: 
 - Accessibility
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

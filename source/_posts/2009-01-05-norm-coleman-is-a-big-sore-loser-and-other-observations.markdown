@@ -3,7 +3,7 @@ layout: post
 title: Norm Coleman is a Big Sore Loser, and Other Observations
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

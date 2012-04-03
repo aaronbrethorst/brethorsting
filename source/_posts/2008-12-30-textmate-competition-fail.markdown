@@ -4,7 +4,7 @@ title: Textmate competition == fail
 tags: 
 - Developer Tools
 - Mac OS X
-status: publish
+comments: true
 type: post
 published: true
 meta: 

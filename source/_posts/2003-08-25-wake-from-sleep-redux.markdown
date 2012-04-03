@@ -3,7 +3,7 @@ layout: post
 title: wake from sleep, redux.
 tags: 
 - iRooster
-status: publish
+comments: true
 type: post
 published: true
 meta: 

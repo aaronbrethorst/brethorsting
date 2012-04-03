@@ -3,7 +3,7 @@ layout: post
 title: Vista Shipped!
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

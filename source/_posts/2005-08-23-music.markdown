@@ -3,7 +3,7 @@ layout: post
 title: Music
 tags: 
 - Music
-status: publish
+comments: true
 type: post
 published: true
 meta: 

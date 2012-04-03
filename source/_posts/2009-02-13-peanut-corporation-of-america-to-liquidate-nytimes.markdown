@@ -3,7 +3,7 @@ layout: post
 title: Peanut Corporation of America to Liquidate - NYTimes.com
 tags: 
 - News
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

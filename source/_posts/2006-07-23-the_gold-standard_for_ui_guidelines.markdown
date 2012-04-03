@@ -3,7 +3,7 @@ layout: post
 title: The Gold-Standard for UI Guidelines
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Designing Interfaces
 tags: 
 - Books
-status: publish
+comments: true
 type: post
 published: true
 meta: 

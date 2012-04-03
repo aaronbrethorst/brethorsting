@@ -3,7 +3,7 @@ layout: post
 title: Stupid Issue with OCUnit
 tags: 
 - Developer Tools
-status: publish
+comments: true
 type: post
 published: true
 meta: 

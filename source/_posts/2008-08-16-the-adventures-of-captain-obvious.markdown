@@ -3,7 +3,7 @@ layout: post
 title: The Adventures of Captain Obvious
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

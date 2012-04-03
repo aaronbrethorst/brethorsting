@@ -3,7 +3,7 @@ layout: post
 title: Tom and Older Blog Posts
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

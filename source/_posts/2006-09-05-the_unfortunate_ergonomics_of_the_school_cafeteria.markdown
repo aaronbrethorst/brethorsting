@@ -3,7 +3,7 @@ layout: post
 title: The Unfortunate Ergonomics of the School Cafeteria
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

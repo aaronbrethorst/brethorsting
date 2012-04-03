@@ -3,7 +3,7 @@ layout: post
 title: In case you missed President Obama's address...
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

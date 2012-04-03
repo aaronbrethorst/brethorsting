@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Yes, but where\xE2\x80\x99s mortal peril?"
+title: "Yes, but where' mortal peril?"
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

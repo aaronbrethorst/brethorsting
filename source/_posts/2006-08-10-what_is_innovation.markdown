@@ -3,7 +3,7 @@ layout: post
 title: What is Innovation?
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

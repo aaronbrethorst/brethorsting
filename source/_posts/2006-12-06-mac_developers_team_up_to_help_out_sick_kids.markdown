@@ -3,7 +3,7 @@ layout: post
 title: Mac developers team up to help out sick kids
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Pictures from Today
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -4,7 +4,7 @@ title: Accusations of Bias
 tags: 
 - iPhone
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

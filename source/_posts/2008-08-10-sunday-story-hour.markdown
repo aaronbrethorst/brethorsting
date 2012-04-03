@@ -4,7 +4,7 @@ title: Sunday Story Hour
 tags: 
 - Technology
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

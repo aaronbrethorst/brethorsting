@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Stephen Colbert\xE2\x80\x99s Fantastic Zingers"
+title: "Stephen Colbert' Fantastic Zingers"
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

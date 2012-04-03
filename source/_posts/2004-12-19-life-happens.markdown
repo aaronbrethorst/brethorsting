@@ -3,7 +3,7 @@ layout: post
 title: Life Happens
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

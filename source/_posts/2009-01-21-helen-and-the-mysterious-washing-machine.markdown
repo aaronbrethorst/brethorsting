@@ -3,7 +3,7 @@ layout: post
 title: Helen and the Mysterious Washing Machine
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

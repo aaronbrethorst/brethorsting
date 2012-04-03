@@ -3,7 +3,7 @@ layout: post
 title: A few predictions for the New Year
 tags: 
 - Meta
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

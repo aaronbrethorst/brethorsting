@@ -3,7 +3,7 @@ layout: post
 title: Simplify UI Development for Native Windows Mobile Apps
 tags: 
 - Windows Mobile
-status: publish
+comments: true
 type: post
 published: true
 meta: 

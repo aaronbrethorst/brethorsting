@@ -3,7 +3,7 @@ layout: post
 title: "Beryl: Oh, the hypocrisy!"
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

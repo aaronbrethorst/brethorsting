@@ -3,7 +3,7 @@ layout: post
 title: Minneapolis Trip - September 2006
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

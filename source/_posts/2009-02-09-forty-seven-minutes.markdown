@@ -3,7 +3,7 @@ layout: post
 title: Forty-seven minutes
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

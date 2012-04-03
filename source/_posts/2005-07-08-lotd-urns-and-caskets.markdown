@@ -3,7 +3,7 @@ layout: post
 title: "LotD: Urns and Caskets"
 tags: 
 - Miscellaneous
-status: publish
+comments: true
 type: post
 published: true
 meta: 

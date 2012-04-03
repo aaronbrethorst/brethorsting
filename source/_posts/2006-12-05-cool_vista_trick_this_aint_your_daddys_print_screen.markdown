@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Cool Vista Trick: This ain\xE2\x80\x99t your daddy\xE2\x80\x99s Print Screen"
+title: "Cool Vista Trick: This ain\xE2\x80\x99t your daddy' Print Screen"
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: David Pogue Looks Back at 2006
 tags: 
 - Innovation
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

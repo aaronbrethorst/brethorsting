@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Time Magazine\xE2\x80\x99s 50 Coolest Websites"
+title: "Time Magazine' 50 Coolest Websites"
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Design?
 tags: 
 - Windows
-status: publish
+comments: true
 type: post
 published: true
 meta: 

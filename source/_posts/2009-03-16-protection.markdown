@@ -3,7 +3,7 @@ layout: post
 title: Protection
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

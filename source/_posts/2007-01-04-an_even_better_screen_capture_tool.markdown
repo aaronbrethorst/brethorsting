@@ -3,7 +3,7 @@ layout: post
 title: An even better screen capture tool
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

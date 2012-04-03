@@ -3,7 +3,7 @@ layout: post
 title: On Behalf of Messrs Rove and Bush
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: 

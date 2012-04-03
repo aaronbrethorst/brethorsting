@@ -3,7 +3,7 @@ layout: post
 title: "Windows Media Center Edition 2005: Code 13 and 33 Errors"
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

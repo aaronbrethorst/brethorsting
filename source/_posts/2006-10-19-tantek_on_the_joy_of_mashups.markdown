@@ -3,7 +3,7 @@ layout: post
 title: Tantek on the joy of mashups
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

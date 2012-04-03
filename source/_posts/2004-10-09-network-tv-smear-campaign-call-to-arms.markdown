@@ -3,7 +3,7 @@ layout: post
 title: Network TV Smear Campaign Call-to-Arms
 tags: 
 - Zoon Politikon
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

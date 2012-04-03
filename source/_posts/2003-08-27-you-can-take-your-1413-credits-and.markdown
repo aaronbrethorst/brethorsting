@@ -3,7 +3,7 @@ layout: post
 title: "You can take your 141.3 credits and\xE2\x80\xA6"
 tags: 
 - Personal Life
-status: publish
+comments: true
 type: post
 published: true
 meta: 

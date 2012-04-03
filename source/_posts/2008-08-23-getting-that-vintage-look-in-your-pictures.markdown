@@ -3,7 +3,7 @@ layout: post
 title: Getting that 'vintage' look in your pictures
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

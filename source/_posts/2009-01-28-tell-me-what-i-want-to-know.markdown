@@ -3,7 +3,7 @@ layout: post
 title: Tell me what I want to know
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: Make Your Cocoa App a Little More Consistent
 tags: 
 - Cocoa
-status: publish
+comments: true
 type: post
 published: true
 meta: 

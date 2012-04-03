@@ -3,7 +3,7 @@ layout: post
 title: Make your photos awesome
 tags: 
 - Graphic Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

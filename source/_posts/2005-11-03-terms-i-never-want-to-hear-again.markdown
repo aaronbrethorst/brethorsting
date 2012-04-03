@@ -3,7 +3,7 @@ layout: post
 title: Terms I Never Want to Hear Again
 tags: 
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

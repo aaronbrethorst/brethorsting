@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Expression Web Beta 1 Available!
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

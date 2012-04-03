@@ -3,7 +3,7 @@ layout: post
 title: "What evil lurks - my first photo I\xE2\x80\x99m genuinely proud of"
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

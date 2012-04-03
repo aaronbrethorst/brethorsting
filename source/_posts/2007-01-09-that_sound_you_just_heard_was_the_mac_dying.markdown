@@ -3,7 +3,7 @@ layout: post
 title: That sound you just heard was the Mac dying
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

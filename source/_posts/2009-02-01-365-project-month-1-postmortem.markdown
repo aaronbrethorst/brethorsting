@@ -3,7 +3,7 @@ layout: post
 title: 365 Project Month 1 Postmortem
 tags: 
 - Photography
-status: publish
+comments: true
 type: post
 published: true
 meta: 

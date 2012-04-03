@@ -3,7 +3,7 @@ layout: post
 title: Lesson Learned
 tags: 
 - Aaron
-status: publish
+comments: true
 type: post
 published: true
 meta: 

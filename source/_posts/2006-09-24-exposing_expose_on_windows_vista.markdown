@@ -3,7 +3,7 @@ layout: post
 title: Exposing Expose on Windows Vista
 tags: 
 - Vista
-status: publish
+comments: true
 type: post
 published: true
 meta: 

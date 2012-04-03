@@ -3,7 +3,7 @@ layout: post
 title: Fugliness, thy name is iTunes 7.0
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Here\xE2\x80\x99s what your search engine thinks about Web standards"
+title: "Here' what your search engine thinks about Web standards"
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

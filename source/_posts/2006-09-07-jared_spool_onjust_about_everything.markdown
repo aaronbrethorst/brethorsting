@@ -3,7 +3,7 @@ layout: post
 title: "Jared Spool on\xE2\x80\xA6just about everything"
 tags: 
 - Usability
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Scoble\xE2\x80\x99s Videos Suck"
+title: "Scoble' Videos Suck"
 tags: 
 - Marketing
-status: publish
+comments: true
 type: post
 published: true
 meta: 

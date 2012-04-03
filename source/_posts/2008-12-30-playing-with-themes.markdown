@@ -3,7 +3,7 @@ layout: post
 title: playing with themes
 tags: []
 
-status: publish
+comments: true
 type: post
 published: true
 meta: 

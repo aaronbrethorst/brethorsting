@@ -3,7 +3,7 @@ layout: post
 title: CSS Listamatic
 tags: 
 - Web Design
-status: publish
+comments: true
 type: post
 published: true
 meta: 

@@ -3,7 +3,7 @@ layout: post
 title: The World According to the Siamese
 tags: 
 - Random Funniness
-status: publish
+comments: true
 type: post
 published: true
 meta: 

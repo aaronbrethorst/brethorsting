@@ -3,7 +3,7 @@ layout: post
 title: "Having a good Ux still means you have to say \xE2\x80\x9CI\xE2\x80\x99m sorry\xE2\x80\x9D"
 tags: 
 - Customers and Community
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

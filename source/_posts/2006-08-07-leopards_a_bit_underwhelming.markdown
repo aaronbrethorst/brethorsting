@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Leopard\xE2\x80\x99s a Bit Underwhelming"
+title: "Leopard' a Bit Underwhelming"
 tags: 
 - Apple
-status: publish
+comments: true
 type: post
 published: true
 meta: {}

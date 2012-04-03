@@ -4,7 +4,7 @@ title: Positive Comments on Every Programming Language I've Ever Learned
 tags: 
 - Developer Tools
 - Technology
-status: publish
+comments: true
 type: post
 published: true
 meta: 

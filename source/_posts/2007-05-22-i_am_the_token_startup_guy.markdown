@@ -3,7 +3,7 @@ layout: post
 title: I am the token startup guy
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 

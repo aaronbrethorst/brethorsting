@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "A chef\xE2\x80\x99s perspective on computer science"
+title: "A chef' perspective on computer science"
 tags: 
 - Popfly
-status: publish
+comments: true
 type: post
 published: true
 meta: 
