@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: The other 90%
+tags: 
+- Windows
+status: publish
+type: post
+published: true
+meta: {}
+
+---
+One of my favorite adages in software development is that <em>the first 90% of your project takes 90% of the time; The last 10% takes the other 90% of the time</em> (my other favorite is "time, quality, features: pick two"). I discovered this firsthand a little over three years ago when I was <a href="http://www.brethorsting.com/blog/2003/08/just_about_10.html">deathmarching towards the release of my first piece of commercial software: iRooster</a>.
+
+  It's pretty easy to slap together a piece of software that fits <em>your</em> needs. What becomes complicated is when it must have the polish and refinement expected of commercial software.
+
+  In the case of iRooster, it took me all of a week to create the skeleton of the application: UI, data persistence, alarm system, iTunes object model, etc. It took me a couple months (part-time) to add in an application icon, eSellerate registration, proper alarm modification, useful error messages, keyboard shortcuts, attractive gradients, website and everything else that creates an enjoyable user experience. I've invested hundreds and hundreds of hours into iRooster over the past three years.
+
+  I've been working on a new Windows app for the past few weeks, now. It took me all of 35 minutes to hash out the basic functionality for the app. It's probably taken me one hundred times that to get it almost ready for shipping. Thankfully, I should have it ready to ship by mid-to-late November exclusively for Windows Vista.
+
+  I thought it was tough to get an app polished enough to ship in the Mac world. The Windows world bears significant burdens I didn't expect, like the cost of creating an installer. I'm using WiX to create my installer, which is far tricker than handing users a gzip file containing your app, and saying "here ya go, party on."
+
+  You will spend an inordinate amount of time polishing your v1.0 application before release. Arguably, if you don't, then you're doing something very, very wrong. I'd love to be proven wrong, though. Please let me know if you have an example of a MicroISV's v1.0 product cycle where fit-and-finish work was effectively integrated throughout. My belief is that there are just a ton of little nit-picky things that you'll never expect until the product finally starts to jell, which is when you discover that you still have another 90% of the way to go.
