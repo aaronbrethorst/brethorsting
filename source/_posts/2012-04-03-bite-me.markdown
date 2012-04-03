@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Bite me, Wordpress"
+date: 2012-04-03 14:55
+comments: true
+categories: 
+---
+
+I finally bit the bullet and moved off Wordpress today after learning that my blog had been hacked at some point in the recent past. I decided to switch over to Octopress, which is based on Jekyll, in part because there's an easy-to-use Wordpress importer. Additionally, I was able to install a clean version of Wordpress, and dump out a collection of all of my posts into WxR format, so no content lost, no permalinks changed. 
+
+Yay for Ruby, boo for Wordpress security.
